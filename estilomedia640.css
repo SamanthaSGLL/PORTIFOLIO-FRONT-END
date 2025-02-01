@@ -1,0 +1,156 @@
+@media screen and  (min-width: 640px) and (max-width:767px) {
+    .imagens{
+        background-size: 180% 100%;
+    }
+    
+    .imagens h1{
+        text-shadow: 10px 4px 5px #000000;
+        
+        padding-left: 144px;
+        padding-top: 155px;  
+        font-family: Bree Serif, serif; 
+        color: white ;
+        font-weight: bold;
+        font-size: 38px;
+    
+    }
+    .imagens2{
+        background-attachment: local;
+    }
+
+    .imagens3{
+        
+            background-image: none;
+            background-image: url("../img/foto1.2.jpg");
+            background-size: cover;
+        
+    }
+    
+    .proposta-titulo{
+        width: 80%;
+        margin-left: 35%;
+        
+        
+    }
+    .proposta-titulo h4{
+        font-size: 4.5vh;
+        padding-bottom: 50px;
+           
+    }
+    .proposta-texto{
+        margin-left: -5%;
+        width:160%;
+        font-size: 4vh;
+    }
+    .navbar-brand img{
+        width: 150px;
+    }
+    .navbar-toggler{
+        width: 55px;
+    }
+    .navbar-toggler-icon{
+        width: 30px;
+    }
+    .habilidades{
+        width: 50%;
+        margin-left: 25%;
+    }
+    .habilidades h4{
+        font-size: 4vh;
+        text-align: center;
+        margin-top: 10px;
+        padding-left: 0px;
+        padding-bottom: 4px;
+        
+    }
+    .habilidades1,
+    .habilidades3,
+    .habilidades5{
+        width: 60%;
+        margin-top: 20px;
+        margin-left: 5%;
+        padding: 20px;
+        
+    }
+    .habilidades2,
+    .habilidades4{
+        width: 60%;
+        margin-top: 20px;
+        margin-left: 35%;
+        padding: 20px;
+    }
+
+
+    .habilidades1 h5,
+    .habilidades2 h5,
+    .habilidades3 h5,
+    .habilidades4 h5,
+    .habilidades5 h5{
+        margin-top: 20px;
+        padding: 2px;
+        font-size: 5vh;
+    }
+    .habilidades1 p,
+    .habilidades2 p,
+    .habilidades3 p,
+    .habilidades4 p,
+    .habilidades5 p{
+        padding: 5px;
+        font-size: 14px;
+    }
+    .valores1,
+    .missao{
+        margin-left: 30px;
+        width: 300px;
+    }
+    .valores1 p{
+        margin-left: 33px;
+        font-size: 15px;
+    }
+    .missao p{
+        margin-left: 17px;
+        font-size: 15px;
+    }
+    .valores1 h5{
+        margin-left: 28%;
+        font-size: 19PX;
+    }
+    .missao h5,.visao h5{
+        margin-left: 24%;
+        font-size: 19PX;
+    }
+    .visao{
+        margin-left: 55%;
+        width: 40%;
+        
+    }
+    .visao p{
+        font-size: 15px;
+        margin-left: 15px;
+    }
+    .rodape{
+        
+        
+        margin-top: 5px;
+        font-size: 10px;
+        flex-wrap: wrap;   
+    }
+    .informations{
+        margin-left: 10px;
+        font-size: 12px;
+       
+    }
+    .line{
+        margin-bottom: -8px;
+    }
+    .mapa{
+        width: 200px;
+        margin-left: 20px;
+        
+    }
+   
+    .direitos h6{
+        font-size: 1px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}

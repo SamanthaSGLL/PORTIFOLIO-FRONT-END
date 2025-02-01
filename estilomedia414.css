@@ -1,0 +1,145 @@
+@media   (min-width: 414px) and (max-width:428px) {
+    .imagens{
+        margin-top: 20px;
+        background-attachment:unset;
+        
+
+    }
+    
+    .imagens h1{
+        text-shadow: 10px 4px 5px #000000;
+        
+        padding-left: 30px;
+        padding-top: 50vh;  
+        font-family: Bree Serif, serif; 
+        color: white ;
+        font-weight: bold;
+        font-size: 5vh;
+    
+    }
+    .imagens2{
+        background-image: none;
+       
+        background-size: contain;
+    }
+
+    .imagens3{
+        
+            background-image: none;
+           
+            background-size: cover;
+        
+    }
+    
+    .proposta-titulo{
+        width: 30vh;
+        margin-left: -1.4vh;
+       
+    }
+    .proposta-titulo h4{
+        font-size: 2vh;
+    }
+    .proposta-texto{
+        margin-left: -10%;
+        width:170%;
+        font-size: 2vh;
+    }
+    .navbar-brand img{
+        width: 120px;
+    }
+
+    .navbar-toggler{
+        width: 55px;
+    }
+    .navbar-toggler-icon{
+        width: 30px;
+    }
+    .habilidades{
+        margin-left: 12vh;
+        width: 25vh;
+        height: 15vh;
+       
+    }
+    .habilidade h5{
+        font-size: 2.5vh;
+    }
+    .habilidade{
+        margin-left: 10px;
+       
+    }
+    
+    .habilidades h4{
+        font-size: 2.6vh;
+        
+    }
+    .habilidades1,
+    .habilidades2,
+    .habilidades3,
+    .habilidades4,
+    .habilidades5{
+        width: 290px;
+        margin-top: 20px;
+        margin-left: 15%;
+        padding: 20px;
+        
+    }
+    
+
+    .habilidades1 p,
+    .habilidades3 p, 
+    .habilidades2 p,
+    .habilidades4 p,
+    .habilidades5 p{
+        font-size: 2vh;
+    }
+    
+    .valores1,
+    .visao,
+    .missao{
+        margin-left: 50px;
+        padding-left: 0px;
+        width: 70%;
+        padding: 1px;
+        margin-top: 60px;
+
+    }
+    .valores h5,
+    .visao h5,
+    .missao h5{
+        margin-left: 36%;
+        font-size: 2.6vh;
+    }
+    .valores1 p,
+    .visao p,
+    .missao p {
+        margin-left: 30px;
+        font-size: 2vh;
+        margin-right: 20px;
+        
+    }
+    .rodape{
+        display: block;
+        margin-top: 10px;
+        font-size: 1.9vh;
+        flex-wrap: wrap;   
+    }
+    .informations{
+        margin-left: 5%;
+       
+    }
+    .line{
+        margin-bottom: -31px;
+    }
+    .mapa{
+        width: 250px;
+        margin-left: 5%;
+        
+    }
+    #rod{
+        padding-top: 20px;
+    }
+    .direitos h6{
+        font-size: 1.6vh;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}

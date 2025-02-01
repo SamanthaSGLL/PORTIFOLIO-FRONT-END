@@ -1,0 +1,101 @@
+@media (min-width: 630px) and (max-width:768px) {
+    .eventos1,
+    .eventos2,
+    .eventos3,
+    .eventos4,
+    .eventos5{
+        display: flex;
+        justify-content: space-between;
+        
+        
+    }
+    .eventos1{
+        margin-top: 20%;
+    }
+    
+    
+    .eventos2,
+    .eventos3,
+    .eventos4,
+    .eventos5{
+        margin-top: 10%;
+    }
+    .foto1,
+    .foto2,
+    .foto3,
+    .foto4,
+    .foto5{
+       width: 350PX;
+       height: 213px;
+       margin-right: 10%;
+      border: 7px solid white;
+    
+       
+    }
+    
+    .descricao1,
+    .descricao2,
+    .descricao3,
+    .descricao4,
+    .descricao5{
+        width: 400px;
+        height: 269px;
+        padding: 15px;
+        font-size: 15px;
+        margin-left: 8%;
+        text-align: center;
+        margin-right: 10%;
+    }
+    .descricao1,
+    .descricao2{
+        padding-top: 50px;
+    }
+    .descricao1 h5,
+    .descricao2 h5,
+    .descricao3 h5,
+    .descricao4 h5,
+    .descricao5 h5{
+        margin-top: -12px;
+       font-size: 20px;
+    }
+    .descricao1 p,
+    .descricao2 p,
+    .descricao3 p,
+    .descricao4 p,
+    .descricao5 p{
+       margin-top: 15px;
+    }
+    .descricao5 h5{
+       margin-top: 0;
+       padding: 0;
+       font-size: 18px;
+    }
+
+    .navbar-brand img{
+        width: 130px ;
+    }
+    .rodape{
+   
+        font-size: 13px;
+    }
+    
+    .mapa{
+        width: 200px; 
+        margin-right: 20px;
+       
+    }
+    #rod{
+        padding-top: 5px;
+    }
+    .direitos h6{
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+    .informations{
+        margin-left: 30px;
+    }
+    
+    
+}
+    
+   

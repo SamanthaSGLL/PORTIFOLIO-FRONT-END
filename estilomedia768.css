@@ -1,0 +1,165 @@
+@media screen and  (min-width: 768px) and (max-width:1026px) {
+    
+    
+    .imagens h1{
+        text-shadow: 10px 4px 5px #000000;
+        padding-left: 164px;
+        padding-top: 472px;
+        color: white;
+        font-weight: bold;
+        font-size: 50px;
+    
+    }
+    .imagens2{
+        background-image: none;
+        background-image: url("../img/foto1.png");
+        background-size: contain;
+        background-attachment:local;
+        width: 100%;
+        height: 200px;
+    }
+
+    .imagens3{
+        
+            background-image: none;
+            background-image: url("../img/foto2.png");
+            background-size: contain;
+            background-attachment:local;
+    }
+    .proposta-titulo{
+        width: 30vh;
+        margin-left: 25%;
+        height: 130px;
+        
+        
+    }
+    .proposta-titulo h4{
+        font-size: 2.6vh;
+           
+    }
+    .proposta-texto{
+        margin-left: -5%;
+        width:160%;
+        font-size: 19px;
+    }
+    .navbar-brand img{
+        width: 150px;
+    }
+    .navbar-toggler{
+        width: 55px;
+    }
+    .navbar-toggler-icon{
+        width: 30px;
+    }
+    .habilidades{
+        width: 50%;
+        margin-left: 25%;
+        height: 120px;
+        padding-top: 20px;
+    }
+    .habilidades h4{
+        font-size: 2vh;
+        text-align: center;
+        margin-top: 5px;
+        padding-left: 0px;
+        padding-bottom: 4px;
+        
+    }
+    .habilidades1,
+    .habilidades3,
+    .habilidades5{
+        width: 60%;
+        margin-top: 20px;
+        margin-left: 5%;
+        padding: 20px;
+        
+    }
+    .habilidades2,
+    .habilidades4{
+        width: 60%;
+        margin-top: 20px;
+        margin-left: 35%;
+        padding: 20px;
+    }
+
+
+    .habilidades1 h5,
+    .habilidades2 h5,
+    .habilidades3 h5,
+    .habilidades4 h5,
+    .habilidades5 h5{
+        margin-top: 20px;
+        padding: 2px;
+        font-size: 3vh;
+    }
+    .habilidades1 p,
+    .habilidades2 p,
+    .habilidades3 p,
+    .habilidades4 p,
+    .habilidades5 p{
+        padding: 5px;
+        font-size: 19px;
+    }
+    .valores1,
+    .missao{
+        margin-left: 6%;
+        width: 40%;
+    }
+    .missao{
+        width: 50%;
+    }
+    .valores1 p{
+        margin-left: 33px;
+        font-size: 19px;
+    }
+    .missao p{
+        margin-left: 17px;
+        font-size: 19px;
+    }
+    .valores1 h5{
+        margin-left: 28%;
+        font-size: 3vh;
+    }
+    .missao h5,.visao h5{
+        margin-left: 30%;
+        font-size: 3vh;
+    }
+    .visao{
+        margin-left: 55%;
+        width: 40%;
+        
+    }
+    .visao p{
+        font-size: 19px;
+        margin-left: 15px;
+    }
+    .rodape{
+        
+        
+        margin-top: 5px;
+        font-size: 20px;
+        flex-wrap: wrap;   
+    }
+    
+    .informations{
+        margin-left: 10px;
+        font-size: 20px;
+       
+    }
+    .informations h6{
+        font-size: 20px;
+    }
+    .line{
+        margin-bottom: -8px;
+    }
+    .mapa{
+        width: 35%;
+        margin-left: 20px;
+        
+    }
+   
+    .direitos h6{
+        font-size: 1px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}

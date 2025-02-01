@@ -1,0 +1,74 @@
+@media screen and (min-width:640px) and (max-width:767px){
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar-toggler{
+        width: 60px;
+    }
+    .navbar-toggler-icon{
+        width:25px;
+    }
+  
+    
+    .items{
+        margin: 0;
+        padding: 0;
+        margin-top: 3vh;
+        width: 230px;
+        
+        
+    }
+    
+    .imagens2 img{
+       
+        height: 100%;
+        object-fit: cover;
+        
+        
+    }
+    .imagens2 video{
+        width: 100%;
+    }
+    
+    .tit2{
+        width: 49vh;
+        height: 24vh;
+        margin-left: 63vh;
+        font-size: 5vh;
+        margin-top: -30px;
+        margin-bottom: -23px;
+    }
+
+
+
+
+    .cant{
+        margin-top: 120px;
+    }
+    .rodape{
+        
+        
+        margin-top: 5px;
+        font-size: 10px;
+        flex-wrap: wrap;   
+    }
+    .informations{
+        margin-left: 10px;
+        font-size: 12px;
+       
+    }
+    .line{
+        margin-bottom: -8px;
+    }
+    .mapa{
+        width: 200px;
+        margin-left: 20px;
+        
+    }
+   
+    .direitos h6{
+        font-size: 1px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+}
